@@ -1,0 +1,27 @@
+Adhil shahanad k k
+09/09/2021
+
+	
+TASK@2:android apk automation testing - POST IMAGE
+
+
+
+major test cases for image upload functionality,which should be executed once while testing Image upload functionality.
+
+	1.Firstly, check Image upload path.
+	2.Test the Image Upload feature with image files of different extensions like PNG, BMP, JPEG etc.
+	3.Test with the image whose names contain space or some special characters.
+	4.Upload a duplicate name image.
+	5.To test that if user can see  the uplaoded images.
+	6.Check image upload with image size greater than the maximum allowed size.Proper message should be displayed.
+	7.Check image upload feature with file types other than images like txt, doc, exe, pdf etc.
+	8.Test with the images of specific width and height if specified are accepted otherwise rejected.
+	9.There should be a progress bar for large size images.	
+	10.Test for the cancel button functionality is working in between while uploading the image.
+	11.Check the file selection dialog shows only supported files listed.
+	12.Check multiple images upload functionality.
+	13.test for the image quality after upload.The quality of the image should not be changed after uploading the image.
+
+ 
+
+Here iam going to test ,new photo posting.
